@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="ModDoble60con7segmentos">
+		<CBX_INST_ENTRY INSTANCE_NAME="|ModDoble60con7segmentos|Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_8ej.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

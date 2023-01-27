@@ -1,0 +1,701 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'Reloj'
+Slack : -3.774
+TNS   : -97.331
+
+Type  : Slow 1200mV 85C Model Setup 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.157
+TNS   : -0.157
+
+Type  : Slow 1200mV 85C Model Setup 'mod60:inst3|Mod10:inst|inst1'
+Slack : 0.096
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'mod60:inst|Mod10:inst|inst1'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'mod60:inst|Mod6:inst2|inst'
+Slack : 0.170
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'mod60:inst|Mod10:inst|inst'
+Slack : 0.244
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'mod60:inst3|Mod10:inst|inst'
+Slack : 0.276
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'mod60:inst3|Mod6:inst2|inst'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'mod60:inst3|Mod10:inst|inst2'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'mod60:inst3|Mod6:inst2|inst1'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'mod60:inst|Mod10:inst|inst2'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'mod60:inst|Mod6:inst2|inst1'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Reloj'
+Slack : -1.990
+TNS   : -3.173
+
+Type  : Slow 1200mV 85C Model Hold 'mod60:inst|Mod6:inst2|inst1'
+Slack : -0.222
+TNS   : -0.222
+
+Type  : Slow 1200mV 85C Model Hold 'mod60:inst3|Mod10:inst|inst1'
+Slack : -0.060
+TNS   : -0.060
+
+Type  : Slow 1200mV 85C Model Hold 'mod60:inst|Mod10:inst|inst1'
+Slack : -0.027
+TNS   : -0.045
+
+Type  : Slow 1200mV 85C Model Hold 'mod60:inst3|Mod6:inst2|inst'
+Slack : 0.010
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'mod60:inst3|Mod10:inst|inst'
+Slack : 0.051
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'mod60:inst|Mod6:inst2|inst'
+Slack : 0.076
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'mod60:inst|Mod10:inst|inst'
+Slack : 0.084
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.228
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'mod60:inst3|Mod10:inst|inst2'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'mod60:inst3|Mod6:inst2|inst1'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'mod60:inst|Mod10:inst|inst2'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'mod60:inst|Mod10:inst|inst2'
+Slack : -1.104
+TNS   : -1.104
+
+Type  : Slow 1200mV 85C Model Recovery 'mod60:inst3|Mod10:inst|inst1'
+Slack : -1.070
+TNS   : -1.360
+
+Type  : Slow 1200mV 85C Model Recovery 'mod60:inst|Mod10:inst|inst'
+Slack : -1.070
+TNS   : -1.070
+
+Type  : Slow 1200mV 85C Model Recovery 'mod60:inst3|Mod10:inst|inst2'
+Slack : -1.044
+TNS   : -1.044
+
+Type  : Slow 1200mV 85C Model Recovery 'mod60:inst3|Mod10:inst|inst'
+Slack : -1.041
+TNS   : -1.041
+
+Type  : Slow 1200mV 85C Model Recovery 'mod60:inst|Mod10:inst|inst1'
+Slack : -1.024
+TNS   : -1.290
+
+Type  : Slow 1200mV 85C Model Recovery 'mod60:inst3|Mod6:inst2|inst'
+Slack : -0.975
+TNS   : -0.975
+
+Type  : Slow 1200mV 85C Model Recovery 'mod60:inst3|Mod6:inst2|inst1'
+Slack : -0.865
+TNS   : -0.865
+
+Type  : Slow 1200mV 85C Model Recovery 'mod60:inst|Mod6:inst2|inst1'
+Slack : -0.617
+TNS   : -0.638
+
+Type  : Slow 1200mV 85C Model Recovery 'mod60:inst|Mod6:inst2|inst'
+Slack : -0.453
+TNS   : -0.453
+
+Type  : Slow 1200mV 85C Model Recovery 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.409
+TNS   : -0.409
+
+Type  : Slow 1200mV 85C Model Removal 'mod60:inst|Mod6:inst2|inst1'
+Slack : -0.741
+TNS   : -0.741
+
+Type  : Slow 1200mV 85C Model Removal 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.341
+TNS   : -0.341
+
+Type  : Slow 1200mV 85C Model Removal 'mod60:inst3|Mod10:inst|inst1'
+Slack : -0.259
+TNS   : -0.259
+
+Type  : Slow 1200mV 85C Model Removal 'mod60:inst|Mod10:inst|inst1'
+Slack : 0.069
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'mod60:inst|Mod6:inst2|inst'
+Slack : 0.274
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'mod60:inst3|Mod10:inst|inst'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'mod60:inst3|Mod10:inst|inst2'
+Slack : 0.330
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'mod60:inst|Mod10:inst|inst'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'mod60:inst3|Mod6:inst2|inst1'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'mod60:inst|Mod10:inst|inst2'
+Slack : 0.390
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'mod60:inst3|Mod6:inst2|inst'
+Slack : 0.456
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Reloj'
+Slack : -3.000
+TNS   : -29.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mod60:inst3|Mod10:inst|inst1'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mod60:inst|Mod10:inst|inst1'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mod60:inst|Mod6:inst2|inst1'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mod60:inst3|Mod10:inst|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mod60:inst3|Mod10:inst|inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mod60:inst3|Mod6:inst2|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mod60:inst3|Mod6:inst2|inst1'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mod60:inst|Mod10:inst|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mod60:inst|Mod10:inst|inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'mod60:inst|Mod6:inst2|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Setup 'Reloj'
+Slack : -3.214
+TNS   : -82.849
+
+Type  : Slow 1200mV 0C Model Setup 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.084
+TNS   : -0.084
+
+Type  : Slow 1200mV 0C Model Setup 'mod60:inst3|Mod10:inst|inst1'
+Slack : 0.143
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mod60:inst|Mod10:inst|inst1'
+Slack : 0.173
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mod60:inst|Mod6:inst2|inst'
+Slack : 0.204
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mod60:inst|Mod10:inst|inst'
+Slack : 0.271
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mod60:inst3|Mod10:inst|inst'
+Slack : 0.301
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mod60:inst3|Mod6:inst2|inst'
+Slack : 0.331
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mod60:inst3|Mod10:inst|inst2'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mod60:inst3|Mod6:inst2|inst1'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mod60:inst|Mod10:inst|inst2'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'mod60:inst|Mod6:inst2|inst1'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Reloj'
+Slack : -1.848
+TNS   : -3.564
+
+Type  : Slow 1200mV 0C Model Hold 'mod60:inst|Mod6:inst2|inst1'
+Slack : -0.165
+TNS   : -0.165
+
+Type  : Slow 1200mV 0C Model Hold 'mod60:inst3|Mod10:inst|inst1'
+Slack : -0.025
+TNS   : -0.025
+
+Type  : Slow 1200mV 0C Model Hold 'mod60:inst|Mod10:inst|inst1'
+Slack : -0.015
+TNS   : -0.028
+
+Type  : Slow 1200mV 0C Model Hold 'mod60:inst3|Mod6:inst2|inst'
+Slack : 0.018
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'mod60:inst3|Mod10:inst|inst'
+Slack : 0.055
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'mod60:inst|Mod6:inst2|inst'
+Slack : 0.080
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'mod60:inst|Mod10:inst|inst'
+Slack : 0.085
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'mod60:inst3|Mod10:inst|inst2'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'mod60:inst3|Mod6:inst2|inst1'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'mod60:inst|Mod10:inst|inst2'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'mod60:inst|Mod10:inst|inst2'
+Slack : -0.874
+TNS   : -0.874
+
+Type  : Slow 1200mV 0C Model Recovery 'mod60:inst3|Mod10:inst|inst1'
+Slack : -0.851
+TNS   : -1.001
+
+Type  : Slow 1200mV 0C Model Recovery 'mod60:inst|Mod10:inst|inst'
+Slack : -0.845
+TNS   : -0.845
+
+Type  : Slow 1200mV 0C Model Recovery 'mod60:inst3|Mod10:inst|inst'
+Slack : -0.828
+TNS   : -0.828
+
+Type  : Slow 1200mV 0C Model Recovery 'mod60:inst3|Mod10:inst|inst2'
+Slack : -0.825
+TNS   : -0.825
+
+Type  : Slow 1200mV 0C Model Recovery 'mod60:inst|Mod10:inst|inst1'
+Slack : -0.803
+TNS   : -0.940
+
+Type  : Slow 1200mV 0C Model Recovery 'mod60:inst3|Mod6:inst2|inst'
+Slack : -0.760
+TNS   : -0.760
+
+Type  : Slow 1200mV 0C Model Recovery 'mod60:inst3|Mod6:inst2|inst1'
+Slack : -0.662
+TNS   : -0.662
+
+Type  : Slow 1200mV 0C Model Recovery 'mod60:inst|Mod6:inst2|inst1'
+Slack : -0.448
+TNS   : -0.448
+
+Type  : Slow 1200mV 0C Model Recovery 'mod60:inst|Mod6:inst2|inst'
+Slack : -0.308
+TNS   : -0.308
+
+Type  : Slow 1200mV 0C Model Recovery 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.255
+TNS   : -0.255
+
+Type  : Slow 1200mV 0C Model Removal 'mod60:inst|Mod6:inst2|inst1'
+Slack : -0.661
+TNS   : -0.661
+
+Type  : Slow 1200mV 0C Model Removal 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.305
+TNS   : -0.305
+
+Type  : Slow 1200mV 0C Model Removal 'mod60:inst3|Mod10:inst|inst1'
+Slack : -0.229
+TNS   : -0.229
+
+Type  : Slow 1200mV 0C Model Removal 'mod60:inst|Mod10:inst|inst1'
+Slack : 0.067
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'mod60:inst|Mod6:inst2|inst'
+Slack : 0.252
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'mod60:inst3|Mod10:inst|inst'
+Slack : 0.285
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'mod60:inst3|Mod10:inst|inst2'
+Slack : 0.288
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'mod60:inst|Mod10:inst|inst'
+Slack : 0.309
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'mod60:inst3|Mod6:inst2|inst1'
+Slack : 0.315
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'mod60:inst|Mod10:inst|inst2'
+Slack : 0.345
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'mod60:inst3|Mod6:inst2|inst'
+Slack : 0.406
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Reloj'
+Slack : -3.000
+TNS   : -29.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mod60:inst3|Mod10:inst|inst1'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mod60:inst|Mod10:inst|inst1'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mod60:inst|Mod6:inst2|inst1'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mod60:inst3|Mod10:inst|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mod60:inst3|Mod10:inst|inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mod60:inst3|Mod6:inst2|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mod60:inst3|Mod6:inst2|inst1'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mod60:inst|Mod10:inst|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mod60:inst|Mod10:inst|inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'mod60:inst|Mod6:inst2|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Setup 'Reloj'
+Slack : -1.731
+TNS   : -44.343
+
+Type  : Fast 1200mV 0C Model Setup 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.191
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mod60:inst3|Mod10:inst|inst1'
+Slack : 0.292
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mod60:inst|Mod10:inst|inst1'
+Slack : 0.340
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mod60:inst|Mod6:inst2|inst'
+Slack : 0.349
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mod60:inst|Mod10:inst|inst'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mod60:inst3|Mod10:inst|inst'
+Slack : 0.399
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mod60:inst3|Mod6:inst2|inst'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mod60:inst|Mod6:inst2|inst1'
+Slack : 0.529
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mod60:inst3|Mod10:inst|inst2'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mod60:inst3|Mod6:inst2|inst1'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'mod60:inst|Mod10:inst|inst2'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Reloj'
+Slack : -1.184
+TNS   : -4.894
+
+Type  : Fast 1200mV 0C Model Hold 'mod60:inst|Mod6:inst2|inst1'
+Slack : -0.187
+TNS   : -0.187
+
+Type  : Fast 1200mV 0C Model Hold 'mod60:inst3|Mod10:inst|inst1'
+Slack : -0.089
+TNS   : -0.095
+
+Type  : Fast 1200mV 0C Model Hold 'mod60:inst|Mod10:inst|inst1'
+Slack : -0.045
+TNS   : -0.087
+
+Type  : Fast 1200mV 0C Model Hold 'mod60:inst3|Mod6:inst2|inst'
+Slack : -0.034
+TNS   : -0.034
+
+Type  : Fast 1200mV 0C Model Hold 'mod60:inst3|Mod10:inst|inst'
+Slack : -0.011
+TNS   : -0.011
+
+Type  : Fast 1200mV 0C Model Hold 'mod60:inst|Mod6:inst2|inst'
+Slack : 0.003
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'mod60:inst|Mod10:inst|inst'
+Slack : 0.009
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.058
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'mod60:inst3|Mod10:inst|inst2'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'mod60:inst3|Mod6:inst2|inst1'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'mod60:inst|Mod10:inst|inst2'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'mod60:inst|Mod10:inst|inst2'
+Slack : -0.188
+TNS   : -0.188
+
+Type  : Fast 1200mV 0C Model Recovery 'mod60:inst|Mod10:inst|inst'
+Slack : -0.169
+TNS   : -0.169
+
+Type  : Fast 1200mV 0C Model Recovery 'mod60:inst3|Mod10:inst|inst1'
+Slack : -0.168
+TNS   : -0.168
+
+Type  : Fast 1200mV 0C Model Recovery 'mod60:inst3|Mod10:inst|inst'
+Slack : -0.152
+TNS   : -0.152
+
+Type  : Fast 1200mV 0C Model Recovery 'mod60:inst3|Mod10:inst|inst2'
+Slack : -0.150
+TNS   : -0.150
+
+Type  : Fast 1200mV 0C Model Recovery 'mod60:inst|Mod10:inst|inst1'
+Slack : -0.140
+TNS   : -0.140
+
+Type  : Fast 1200mV 0C Model Recovery 'mod60:inst3|Mod6:inst2|inst'
+Slack : -0.115
+TNS   : -0.115
+
+Type  : Fast 1200mV 0C Model Recovery 'mod60:inst3|Mod6:inst2|inst1'
+Slack : -0.051
+TNS   : -0.051
+
+Type  : Fast 1200mV 0C Model Recovery 'mod60:inst|Mod6:inst2|inst1'
+Slack : 0.093
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'mod60:inst|Mod6:inst2|inst'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : 0.235
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'mod60:inst|Mod6:inst2|inst1'
+Slack : -0.445
+TNS   : -0.445
+
+Type  : Fast 1200mV 0C Model Removal 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -0.230
+TNS   : -0.230
+
+Type  : Fast 1200mV 0C Model Removal 'mod60:inst3|Mod10:inst|inst1'
+Slack : -0.167
+TNS   : -0.167
+
+Type  : Fast 1200mV 0C Model Removal 'mod60:inst|Mod10:inst|inst1'
+Slack : 0.034
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'mod60:inst|Mod6:inst2|inst'
+Slack : 0.144
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'mod60:inst3|Mod10:inst|inst'
+Slack : 0.177
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'mod60:inst3|Mod10:inst|inst2'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'mod60:inst3|Mod6:inst2|inst1'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'mod60:inst|Mod10:inst|inst'
+Slack : 0.190
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'mod60:inst|Mod10:inst|inst2'
+Slack : 0.214
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'mod60:inst3|Mod6:inst2|inst'
+Slack : 0.245
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Reloj'
+Slack : -3.000
+TNS   : -30.456
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mod60:inst3|Mod10:inst|inst1'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mod60:inst|Mod10:inst|inst1'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mod60:inst|Mod6:inst2|inst1'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Divisor50MHZ:Divisor|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component|cntr_8ej:auto_generated|counter_reg_bit[25]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mod60:inst3|Mod10:inst|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mod60:inst3|Mod10:inst|inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mod60:inst3|Mod6:inst2|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mod60:inst3|Mod6:inst2|inst1'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mod60:inst|Mod10:inst|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mod60:inst|Mod10:inst|inst2'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'mod60:inst|Mod6:inst2|inst'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
